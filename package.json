@@ -1,15 +1,18 @@
 {
   "name": "npm-array-filter",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "array-filter, data-filter,javascript-array-filter,array-data-filter,array-data-filter-with-objectname"
+  ],
   "author": "akash kumar singh",
-  "license": "ISC",
-  "dependencies" : {
-    "GitRepo": "https://github.com/akash22396/npm-array-filter"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akash22396/npm-array-filter"
   }
 }
