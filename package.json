@@ -1,13 +1,17 @@
 {
   "name": "npm-array-filter",
   "version": "1.0.8",
-  "description": "",
+  "description": "this npm package help to user filter the data from the array in javascript. user can filter data with/without object name.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "array-filter, data-filter,javascript-array-filter,array-data-filter,array-data-filter-with-objectname"
+ "keywords": [
+    "array-filter",
+    "data-filter",
+    "javascript-array-filter",
+    "array-data-filter",
+    "array-data-filter-with-objectname"
   ],
   "author": "akash kumar singh",
   "license": "MIT",
