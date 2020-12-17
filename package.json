@@ -1,6 +1,6 @@
 {
   "name": "npm-array-filter",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "akash kumar singh",
   "license": "ISC",
   "dependencies" : {
-    "name": "https://github.com/akash22396/npm-array-filter"
+    "GitRepo": "https://github.com/akash22396/npm-array-filter"
   }
 }
